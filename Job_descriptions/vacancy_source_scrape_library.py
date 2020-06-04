@@ -13,7 +13,6 @@ import browser_cookie3
 from bs4 import BeautifulSoup
 import html2text
 
-import vacancy_source_scrape_library as vacancy_scrape
 #temp imports
 
 
@@ -27,6 +26,8 @@ from library_webscrape import classes, outlook, edit_docx, os_lib
 
 
 file = "vacancy_source_scrape_library.py"
+
+
 test=True
 if test==True:
     new_file = file + "_test"
@@ -52,8 +53,8 @@ def scrape(url,soup):
                 job_expired_warning = soup.find(expired_selector["parent"], {expired_selector["attribute"]:expired_selector["attribute_value"]}).getText() 
             except:
                 pass
-
             return None
+
 
     """  
     if url.find("indeed.co.uk") != -1:
@@ -103,7 +104,7 @@ def scrape(url,soup):
         job_description = soup.find('div', {"class":"job-description"})
     """
 
-    print("found new vacancty source - ", url)
+    print("found new vacancy source - ", url)
     
     #FORMING A SCRAPING TEMPLATE FOR NEW VACANCY SOURCE
     webscraper = classes.webscraper(cookie_browser="firefox")
@@ -115,21 +116,38 @@ def scrape(url,soup):
     
     expired_finder_terms = ["no longer available", "has expired", "has been filled"]
     job_description_selector_finder_terms = ["job-description", "job_description", "job-details"]
-    print(soup)
-    for line in plain_text.splitlines():
+    
+    for split_number, line in enumerate(plain_text.split("<")):
         for selector_finder in job_description_selector_finder_terms:
-            if  (line.find('="' + selector_finder) != -1):
+            if  (line.find("div") != -1) and (line.find('="' + selector_finder) != -1):
                 description_selector_line = line #carries through and assigns furthest down the tree
+                parent_line = plain_text.split("<")[split_number]
+                print('parent_line: ', parent_line)
         for expired_finder in expired_finder_terms:         
             if  (line.find(expired_finder) != -1):
                 expired_selector_line = line #carries through and assigns furthest down the tree
-                #print("hi", expired_selector_line)
+                print("hi", expired_selector_line)
 
-    attribute = description_selector_line.split("div ")[1].split("=")[0]
-    attribute_value = description_selector_line.split('"')[1]
-    pickle_append_dict["description_selector"] = {"attribute":attribute, "attribute_value":attribute_value}
+    try:
+        attribute = description_selector_line.split("div ")[1].split("=")[0]
+        attribute_value = description_selector_line.split('"')[1]
+        pickle_append_dict["description_selector"] = {"attribute":attribute, "attribute_value":attribute_value}
+        
+    except:
+        pass
+    #try:
+    parent = expired_selector_line.split(" ")[0]
+    attribute = expired_selector_line.split(" ")[1].split["="][0]
+    attribute_value = expired_selector_line.split('"')[1]
+    pickle_append_dict["expired_selector"] = {"parent":parent, "attribute":attribute, "attribute_value":attribute_value}
+
     
+    #except:
+    #    pass
     
+
+
+
     #pickle.append_pickle(pickle_file, pickle_append_dict,print_pickle=True)
 
     log_file = "vacancy_source_new_log.txt"
@@ -146,3 +164,6 @@ url = "https://www.prospects.ac.uk/employer-profiles/babcock-20422/jobs/marine-p
 #"http://www.jobsxl.co.uk/jobsuk/326307/systems-engineer-at-birmingham/" 
 scrape(url,"hi")
 #"https://uk.linkedin.com/jobs/view/c%23-chief-technical-officer-hyper-growth-saas-at-executive-resource-group-erg-1837291919?refId=d16dd668-176a-402a-a38b-29d084ad1179&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+
+
+vacancyk

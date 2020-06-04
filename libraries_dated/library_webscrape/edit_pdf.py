@@ -45,7 +45,7 @@ def convert_pdf_to_docx(file_path):
         time.sleep(5)
         """
 
-pdf_path = r"C:\Users\luket\Desktop\test space\storage\edited_cv_storage\Mateusz Swirski (75875206 - CWJobs).pdf"
+pdf_path = r"C:\Users\luket\Desktop\test_space\storage\edited_cv_storage\Mateusz Swirski (75875206 - CWJobs).pdf"
 convert_pdf_to_docx(pdf_path)
 
 

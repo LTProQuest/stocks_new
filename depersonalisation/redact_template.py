@@ -67,7 +67,7 @@ def pdf_redact(input_stream, output_directory, strings_to_filter):
     return output_stream
 
 
-#input_stream = r"C:\Users\luket\Desktop\test space\pdf-redactor-master\tests\test-ssns.pdf"
-#output_stream = r"C:\Users\luket\Desktop\test space\pdf-redactor-master\hiiiiii.pdf"
+#input_stream = r"C:\Users\luket\Desktop\test_space\pdf-redactor-master\tests\test-ssns.pdf"
+#output_stream = r"C:\Users\luket\Desktop\test_space\pdf-redactor-master\hiiiiii.pdf"
 #pdf_redact(input_stream, output_stream, ["This", "Here"])
 

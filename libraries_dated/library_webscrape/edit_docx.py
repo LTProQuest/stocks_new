@@ -76,7 +76,7 @@ def docx_replace_multiple_strings(file_path, old_texts, output_directory):
 #header = document.sections[0].header
 #header.text = 'foobar'
 
-file_path = (r"C:\Users\luket\Desktop\test space\storage\cv_storage\17358445 - CWJobs).docx")
+file_path = (r"C:\Users\luket\Desktop\test_space\storage\cv_storage\17358445 - CWJobs).docx")
 output_directory = "storage/edited_cv_storage"
 old_texts = ["hi","bye"]
 docx_replace_multiple_strings(file_path, old_texts, output_directory)

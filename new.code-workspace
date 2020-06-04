@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\test_space\\2020"
+		},
+		{
+			"path": "..\\test_space"
+		}
+	],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"code-runner.saveFileBeforeRun": true,
+		"code-runner.saveAllFilesBeforeRun": true
+	}
+}

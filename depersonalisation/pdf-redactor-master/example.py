@@ -25,8 +25,8 @@ options.metadata_filters = {
 }
 """
 
-options.input_stream = r"C:\Users\luket\Desktop\test space\pdf-redactor-master\tests\test-ssns.pdf"
-options.output_stream = r"C:\Users\luket\Desktop\test space\pdf-redactor-master\hiiiiiiiiiiiiiiiiiiii.pdf"
+options.input_stream = r"C:\Users\luket\Desktop\test_space\pdf-redactor-master\tests\test-ssns.pdf"
+options.output_stream = r"C:\Users\luket\Desktop\test_space\pdf-redactor-master\hiiiiiiiiiiiiiiiiiiii.pdf"
 
 # Clear any XMP metadata, if present.
 options.xmp_filters = [lambda xml : None]

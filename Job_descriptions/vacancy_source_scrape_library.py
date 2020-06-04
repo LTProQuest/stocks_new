@@ -19,7 +19,7 @@ import vacancy_source_scrape_library as vacancy_scrape
 
 
 
-path = r"C:\Users\luket\Desktop\test space\libraries"
+path = r"C:\Users\luket\Desktop\test_space\libraries"
 sys.path.insert(0, path)
 
 from library_webscrape import classes, outlook, edit_docx, os_lib
@@ -33,7 +33,7 @@ if test==True:
 else:
     new_file = file
 
-pickle_file = "vacancy_source_scrape_pickle.pkl"
+pickle_file = "job_descriptions/vacancy_source_scrape_pickle.pkl"
 with open(pickle_file, "rb") as f:
     pickle_array = pickle.load(f)
 vacancy_source_scrape_templates = pickle_array
@@ -115,7 +115,7 @@ def scrape(url,soup):
     
     expired_finder_terms = ["no longer available", "has expired", "has been filled"]
     job_description_selector_finder_terms = ["job-description", "job_description", "job-details"]
-    print(len(plain_text.splitlines()))
+    print(soup)
     for line in plain_text.splitlines():
         for selector_finder in job_description_selector_finder_terms:
             if  (line.find('="' + selector_finder) != -1):
@@ -138,6 +138,7 @@ def scrape(url,soup):
 
     
     #raise Exception()    
+
 
 
 

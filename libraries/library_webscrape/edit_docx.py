@@ -93,6 +93,6 @@ def docx_replace_multiple_strings(file_path, old_texts, output_directory):
 #string = "modo@hotmail.com needs removing ? 29919-depersonalised.pdf – remove address “27 Old Gloucester Street, London” if poss. 29920-depersonalised.pdf – remove LinkedIn address www.linkedin.com/in/courtney-omant"
 #print(depersonalise_via_regex(string))
 #old_texts = ["Martyn, Braithwate"]
-#file_path = r"C:\Users\luket\Desktop\test space\storage\cv_storage\7000045 - CWJobs).doc"
+#file_path = r"C:\Users\luket\Desktop\test_space\storage\cv_storage\7000045 - CWJobs).doc"
 #output_directory = "storage\edited_cv_storage"
 #docx_replace_multiple_strings(file_path, old_texts, output_directory)

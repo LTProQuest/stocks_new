@@ -25,7 +25,7 @@ import vacancy_source_scrape_library as vacancy_scrape
 
 
 
-path = r"C:\Users\luket\Desktop\test space\libraries"
+path = r"C:\Users\luket\Desktop\test_space\libraries"
 sys.path.insert(0, path)
 
 from library_webscrape import classes, outlook, edit_docx, os_lib

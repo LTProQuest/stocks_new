@@ -1,5 +1,5 @@
 import sys
-path = r"C:\Users\luket\Desktop\test space\libraries"
+path = r"C:\Users\luket\Desktop\test_space\libraries"
 sys.path.insert(0, path)
 
 from library_webscrape import pickle_lib

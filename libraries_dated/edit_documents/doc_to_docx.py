@@ -11,7 +11,7 @@ from win32com.client import constants
 import os 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-#path = r"C:\Users\luket\Desktop\test space\storage\cv_storage\Aine Crowley_2056594_cv-library.doc"
+#path = r"C:\Users\luket\Desktop\test_space\storage\cv_storage\Aine Crowley_2056594_cv-library.doc"
 
 #relative_path = r"storage\cv_storage\Aine Crowley_2056594_cv-library.doc"
 #path = dir_path + r"\\" + relative_path 

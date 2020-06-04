@@ -41,8 +41,9 @@ try:
     location = "Manchester"
     key_words = "database OR file OR php OR sql OR java OR a OR python OR in"
 
-    page_limit = 30
+    page_limit = 50
 
+    candidates_posted = 0 
 
 
     for page_number in range(page_limit):
@@ -112,9 +113,17 @@ try:
             
             
             if post_candidate == True:
-                webscraper.api_post_payload(candidate_post_url, payload)           
+                response = webscraper.api_post_payload(candidate_post_url, payload, assign_response_as_variable=True)
+                if str(response) == "201":
+                    candidates_posted += 1:
+                    print(candidates_posted, " of 250 candidates posted")
+                else:
+
             else:
                 pass
+
+            if candidates_posted >= 250:
+                break
 except Exception as e: 
     print("An error has occured and it's description displayed below." + "\n"*2)
     print("Error description - ", str(e))
@@ -126,6 +135,8 @@ except Exception as e:
 
     print("\n"*2 + "If this is a reoccuring error and cannot be resolved, please copy the error description above and email it to 'luke.turner@pro-quest.co.uk'") 
     
+
+print("\n"*4 + "Posting complete, ", candidates_posted, " of 250 candidates posted")
 
         
 

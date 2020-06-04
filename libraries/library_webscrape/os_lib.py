@@ -12,3 +12,25 @@ def delete_folder_content(folder):
         except Exception as e:
             print("Failed to delete %s. Reason: %s" % (file_path, e))
 
+
+def file_create_copy(file_path):
+    content = []
+    with open(file_path,"r") as f:
+        for line in f:
+            content.append(line)
+
+    copy_path = file_path + "_original"
+    with open(copy_path,"w") as f:
+        for i in range(len(content)):
+            f.write(content[i])
+
+def file_append(file_path, string_to_append):
+    content = []
+    with open(file_path,"r") as f:
+        for line in f:
+            content.append(line)
+    
+    with open(file_path,"w") as f:
+        for i in range(len(content)):
+            f.write(content[i])
+        f.write(string_to_append)    

@@ -17,7 +17,7 @@ import datetime
 import time
 import re
 
-import doc_to_docx
+#import doc_to_docx
 
 path = r"C:\Users\luket\Desktop\work\cv_library_workspace\libraries"
 sys.path.insert(0, path)
@@ -30,7 +30,7 @@ from library_webscrape import classes, outlook, edit_docx, os_lib
 logger = outlook.WebscrapeLogger()
 candidate_pages_per_vacancy = 1
 vacancy_search_limit = 100
-vacancy_start_from = 30  # default = 1
+vacancy_start_from = 1  # default = 1
 root_url = 'https://recruiter.cwjobs.co.uk'
 candidate_scrape_limit = 300  # per vacancy
 

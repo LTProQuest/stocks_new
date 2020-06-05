@@ -24,13 +24,18 @@ def file_create_copy(file_path):
         for i in range(len(content)):
             f.write(content[i])
 
-def file_append(file_path, string_to_append):
+def file_append(file_path, string_to_append, encoding_type="utf-8"):
     content = []
-    with open(file_path,"r") as f:
-        for line in f:
-            content.append(line)
-    
-    with open(file_path,"w") as f:
+    try:
+        with open(file_path,"r") as f:
+            for line in f:
+                content.append(line)
+    except:
+        print("file not found - '", file_path, "' created")
+        content=""
+
+
+    with open(file_path,"w", encoding=encoding_type) as f:
         for i in range(len(content)):
             f.write(content[i])
         f.write(string_to_append)    

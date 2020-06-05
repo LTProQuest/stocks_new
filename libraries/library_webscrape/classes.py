@@ -212,8 +212,8 @@ class webscraper:
                         payload[key] = value     
             payloads.append(payload)
 
-        if self.debug == True:
-            print("got payloads - 1st payload: ", payloads[0])
+        #if self.debug == True:
+        #    print("got payloads - 1st payload: ", payloads[0])
         return(payloads)     
 
     def encode_cv(self, file_path):

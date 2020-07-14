@@ -1,3 +1,7 @@
+import threading
+import time
+import sys
+import signal
 import os, shutil
 
 
@@ -24,18 +28,28 @@ def file_create_copy(file_path):
         for i in range(len(content)):
             f.write(content[i])
 
-def file_append(file_path, string_to_append, encoding_type="utf-8"):
+def file_append(file_path, string_to_append):
     content = []
     try:
         with open(file_path,"r") as f:
             for line in f:
                 content.append(line)
-    except:
+    except FileNotFoundError:
         print("file not found - '", file_path, "' created")
         content=""
 
 
-    with open(file_path,"w", encoding=encoding_type) as f:
+    with open(file_path,"w", errors="ignore") as f:
         for i in range(len(content)):
             f.write(content[i])
-        f.write(string_to_append)    
+        f.write(string_to_append)
+
+
+def print_after_terminal_stop():
+    def signal_handler(signal, frame):
+        print('You pressed Ctrl+C!')
+        sys.exit(0)
+    signal.signal(signal.SIGINT, signal_handler)
+    print('Press Ctrl+C')
+    forever = threading.Event()
+    forever.wait()

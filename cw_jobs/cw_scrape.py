@@ -10,7 +10,7 @@ import win32com
 from bs4 import BeautifulSoup
 import browser_cookie3 
 
-path = r"C:\Users\luket\Desktop\work\cv_library_workspace\libraries"
+path = r"C:\Users\luket\Desktop\test_space\libraries"
 sys.path.insert(0, path)
 
 from library_webscrape import classes, outlook, edit_docx, os_lib
@@ -98,9 +98,9 @@ def get_candidate_payload(job_url, webscraper):
     return reformatted_payload, download_path, eligible_to_work
         
 
-webscraper = classes.webscraper(debug=debug_on, cookie_browser="firefox")
-job_url = "https://recruiter.cwjobs.co.uk/CandidateSearchWebMVC/CandidateDetails/Show?FreeText=Front+End+Developer&ShowUnspecifiedSalary=False&QuestionAnswerIds=%7b1%2c2%7d%7b2%2c2%7d&LastActivityId=6&CurrentLocation=Birkenhead&TravelTime=45&SalaryFacetsType=99&PreRegStatusFacet=0%2c1&HideCandidatesSinceDays=7&SearchId=aa1b08b3-ff85-4d49-b429-c4efcbec789f&scr=1&PageNumber=1PageNumber=1&candidateId=GmFVAJcAMLs%3d&CandidateSearchAuditId=q2bZFy%2fA8Wda52wNhWo97Q%3d%3d&PagePosition=1&PageSize=10"
-payload = get_candidate_payload(job_url, webscraper)
+# webscraper = classes.webscraper(debug=debug_on, cookie_browser="firefox")
+# job_url = "https://recruiter.cwjobs.co.uk/CandidateSearchWebMVC/CandidateDetails/Show?FreeText=Front+End+Developer&ShowUnspecifiedSalary=False&QuestionAnswerIds=%7b1%2c2%7d%7b2%2c2%7d&LastActivityId=6&CurrentLocation=Birkenhead&TravelTime=45&SalaryFacetsType=99&PreRegStatusFacet=0%2c1&HideCandidatesSinceDays=7&SearchId=aa1b08b3-ff85-4d49-b429-c4efcbec789f&scr=1&PageNumber=1PageNumber=1&candidateId=GmFVAJcAMLs%3d&CandidateSearchAuditId=q2bZFy%2fA8Wda52wNhWo97Q%3d%3d&PagePosition=1&PageSize=10"
+# payload = get_candidate_payload(job_url, webscraper)
 
 
 

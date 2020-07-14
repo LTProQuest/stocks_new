@@ -13,7 +13,7 @@ def pdf_redact(input_stream, output_directory, strings_to_filter):
 
     path, filename = os.path.split(input_stream)
 
-    output_stream = output_directory  + filename
+    output_stream = output_directory  + "/" + filename
     
     options = pdf_redactor.RedactorOptions()
 

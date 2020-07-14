@@ -14,7 +14,6 @@ import json
 import base64
 import random
 
-from PyPDF2 import PdfFileReader, PdfFileWriter
 
 
 
@@ -76,6 +75,13 @@ class webscraper:
             #if find_in_soup not None: *Task generate portion of soup about keywords
             #    soup.find
             #    print("soup search for ", find_in_soup, )
+        
+
+        # try:
+        #     r = s.get(job_url)
+        # except requests.exceptions.ConnectionError as e:
+        #     print("connection_error, continuing")
+        #     continue
 
         base_url = url.split("/")[0:3]
         base_url = "/".join(base_url)
@@ -177,7 +183,7 @@ class webscraper:
                 pass #in case no metadata to begin with        
         return file_path    
 
-    def api_post_payload(self, api_url, payload, assign_response_as_variable = False, put=False):       
+    def api_post_payload(self, api_url, payload, assign_response_as_variable = False, put=True):       
         with requests.Session() as s:
             
             if put == False:
@@ -189,7 +195,7 @@ class webscraper:
             if self.debug == True:
                 print("posted payload: ", response)
             if assign_response_as_variable == True:
-                return response    
+                return response, r.status_code    
 
     def api_get_response(self, api_url, print_reponse=False):       
         with requests.Session() as s:    

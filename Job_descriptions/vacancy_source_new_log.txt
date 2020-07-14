@@ -1,3 +1,786 @@
-url - https://uk.linkedin.com/jobs/view/ux-ui-designer-at-ikrut-1851429556?refId=63714e4c-ccba-4b1d-9d17-4691c8d6c063&position=23&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3569167275" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
 
-<!DOCTYPE html><html lang="en"><head><meta name="pageKey" content="d_jobs_guest_search"><meta name="linkedin:pageTag" content="jserp_canonical_keyword"><meta name="locale" content="en_US"><meta id="config" data-app-id="com.linkedin.jobs-guest-frontend.d_web" data-custom-tracking-code="" data-tracking-page-type=""/><link rel="canonical" href="https://uk.linkedin.com/jobs/ikrut-jobs"><link rel="icon" href="https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"><script>function getDfd() {let yFn,nFn;const p=new Promise((y, n)=>{yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}window.lazyloader = getDfd();window.tracking = getDfd();window.impressionTracking = getDfd();</script><script src="https://static-exp1.licdn.com/sc/h/ofo3fqmypus602g02dqvlu6r" async></script><meta name="description" content="Today&rsquo;s top 6 Ikrut jobs in United Kingdom. Leverage your professional network, and get hired. New Ikrut jobs added daily."><meta name="robots" content="noarchive"><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="litmsProfileName" content="jobs-guest-frontend"><meta charset="utf-8"><meta property="lnkd:url" content="https://uk.linkedin.com/jobs/ikrut-jobs?trk=expired_jd_redirect"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@LinkedIn"/><meta name="twitter:description" content="Today&rsquo;s top 6 Ikrut jobs in United Kingdom. Leverage your professional network, and get hired. New Ikrut jobs added daily."/><meta property="og:type" content="website"/><meta property="og:url" content="https://uk.linkedin.com/jobs/ikrut-jobs"/><meta property="og:description" content="Today&rsquo;s top 6 Ikrut jobs in United Kingdom. Leverage your professional network, and get hired. New Ikrut jobs added daily."/><link rel="stylesheet" href="https://static-exp1.licdn.com/sc/h/ad8aku8609h2675rxbfun5xa9"/><title>Ikrut Jobs in United Kingdom</title><meta property="og:title" content="Ikrut Jobs in United Kingdom"/><meta name="twitter:title" content="Ikrut Jobs in United Kingdom"/></head><body><div id="artdeco-global-alert-container"class="global-alert-banner"aria-live="assertive" role="alert"><div class="artdeco-global-alert artdeco-global-alert--NOTICE"severity="NOTICE"alert-id="urn:li:alert:3"aria-hidden="true"type="COOKIE_USAGE"><section class="artdeco-global-alert__body"><li-icon class="artdeco-global-alert__icon"><span><svg version="1.1"xmlns="http://www.w3.org/2000/svg"xmlns:xlink="http://www.w3.org/1999/xlink"height="24"width="24"><path d="M12,2C6.5,2,2,6.5,2,12c0,5.5,4.5,10,10,10c5.5,0,10-4.5,10-10C22,6.5,17.5,2,12,2zM12,20.2c-4.5,0-8.2-3.7-8.2-8.2S7.5,3.8,12,3.8s8.2,3.7,8.2,8.2S16.5,20.2,12,20.2zM11,10h2v8h-2V10zM11,6h2v2h-2V6z" fill="#fff"/></svg></span></li-icon><p class="artdeco-global-alert__content">This website uses cookies to improve service and provide tailored ads. By using this site, you agree to this use. See our <a href="https://www.linkedin.com/legal/cookie-policy">Cookie Policy</a></p><button class="artdeco-global-alert__dismiss"><li-icon class="artdeco-global-alert__icon artdeco-global-alert__icon--dismissed"><span><svg version="1.1"xmlns="http://www.w3.org/2000/svg"xmlns:xlink="http://www.w3.org/1999/xlink"height="16"width="16"><path d="M13,4.32L9.31,8,13,11.69,11.69,13,8,9.31,4.31,13,3,11.69,6.69,8,3,4.31,4.31,3,8,6.69,11.68,3Z" fill="#fff" /></svg></span><span class="a11y-text">dismiss</span></li-icon></button></section></div></div><script src="https://static-exp1.licdn.com/sc/h/e0wn2j9nr9i9gd4rd87wodb63" async defer></script><a href="#main-content" class="skip-link">Skip to main content</a><header class="header"><nav class="nav"aria-label="Primary"><a href="/?trk=public_jobs_nav-header-logo"class="nav__logo-link"data-tracking-control-name="public_jobs_nav-header-logo"data-tracking-will-navigate=""><span class="nav__logo-text">LinkedIn</span><icon class="nav__logo" data-delayed-url="https://static-exp1.licdn.com/sc/h/42m2c5vx2g5awnffhq3aq8sh1"/></a><section class="search-bar" data-current-search-type="JOBS"><button class="search-bar__placeholder show-on-mobile hide-on-desktop" data-tracking-control-name="public_jobs_search-switcher-opener" aria-label="Expand search"><div class="search-bar__full-placeholder">Ikrut in United Kingdom</div></button><div class="switcher-tabs__trigger-and-tabs"><button aria-expanded="false"class="switcher-tabs__placeholder hide-on-mobile"data-tracking-control-name="public_jobs_switcher-tabs-placeholder"><span class="switcher-tabs__placeholder-text"></span><icon class="switcher-tabs__caret-down-filled onload"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"></icon></button><div class="switcher-tabs hide-on-desktop hide-on-mobile"><h2 id="switcher-label" class="switcher-tabs__title hide-on-mobile">Search for</h2><ul aria-labelledby="switcher-label" class="switcher-tabs__list"><li class="switcher-tabs__tab switcher-tabs__tab--active"><button data-switcher-type="JOBS" class="switcher-tabs__button" type="button" data-tracking-control-name="public_jobs_switcher-tabs-jobs-search-switcher">Jobs</button></li><li class="switcher-tabs__tab "><button data-switcher-type="PEOPLE" class="switcher-tabs__button" type="button" data-tracking-control-name="public_jobs_switcher-tabs-people-search-switcher">People</button></li><li class="switcher-tabs__tab "><button data-switcher-type="LEARNING" class="switcher-tabs__button" type="button" data-tracking-control-name="public_jobs_switcher-tabs-learning-search-switcher">Learning</button></li></ul><button class="switcher-tabs__cancel-btn hide-on-desktop" type="button" data-tracking-control-name="public_jobs_switcher-tabs-cancel-search-switcher"><icon class="switcher-tabs__cancel-icon onload"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button></div></div><section class="base-search-bar" data-searchbar-type="PEOPLE"><form class="base-search-bar__form" role="search" action="/pub/dir" data-tracking-control-name="public_jobs_people-search-bar_base-search-bar-form"><section class="dismissable-input search-input"><input type="search"aria-label="First Name"name="firstName"maxLength="500"class="dismissable-input__input"value=""placeholder="First Name"autocomplete="on"data-tracking-control-name="public_jobs_people-search-bar_first-name_dismissable-input"><button type="button"class="dismissable-input__button" data-tracking-control-name="public_jobs_people-search-bar_first-name_dismissable-input-clear"><label class="screen-reader-text">Dismiss</label><icon class="dismissable-input__button-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button></section><section class="dismissable-input search-input"><input type="search"aria-label="Last Name"name="lastName"maxLength="500"class="dismissable-input__input"value=""placeholder="Last Name"autocomplete="on"data-tracking-control-name="public_jobs_people-search-bar_last-name_dismissable-input"><button type="button"class="dismissable-input__button" data-tracking-control-name="public_jobs_people-search-bar_last-name_dismissable-input-clear"><label class="screen-reader-text">Dismiss</label><icon class="dismissable-input__button-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button></section><input type="hidden" name="trk" value="public_jobs_people-search-bar_search-submit"/><button type="submit" class="base-search-bar__submit-btn" aria-label="Search" data-tracking-control-name="public_jobs_people-search-bar_base-search-bar-search-submit"><icon class="base-search-bar__search-icon onload"data-delayed-url="https://static-exp1.licdn.com/sc/h/a6wnw1b2dk8748w5uni4o96fa"></icon></button></form></section><section class="base-search-bar" data-searchbar-type="JOBS"><form class="base-search-bar__form" role="search" action="/jobs/search" data-tracking-control-name="public_jobs_jobs-search-bar_base-search-bar-form"><code id="i18n_aria_live_text_no-suggestions" style="display: none;"><!--"No suggestions found"--></code><code id="i18n_aria_live_text_one-suggestion" style="display: none;"><!--"One Suggestion. Use up and down keys to navigate"--></code><code id="i18n_aria_live_text_multiple-suggestions" style="display: none;"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code><section class="dismissable-input typeahead-input keywords-typeahead-input"aria-owns="job-search-bar-keywords-typeahead-list"aria-haspopup="listbox"role="combobox"><input type="search"aria-autocomplete="list"aria-controls="job-search-bar-keywords-typeahead-list"aria-label="Search job titles or companies"name="keywords"maxLength="500"class="dismissable-input__input"value="Ikrut"placeholder="Search job titles or companies"autocomplete="off"data-tracking-control-name="public_jobs_jobs-search-bar_dismissable-input"><button type="button"class="dismissable-input__button" data-tracking-control-name="public_jobs_jobs-search-bar_dismissable-input-clear"><label class="screen-reader-text">Dismiss</label><icon class="dismissable-input__button-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button><div class="typeahead-input__dropdown"><template class="typeahead-item-template"><li class="typeahead-input__dropdown-item"role="option"><span class="typeahead-input__dropdown-text"></span></li></template><ul class="typeahead-input__dropdown-list"id="job-search-bar-keywords-typeahead-list"role="listbox"></ul></div><code id="i18n_aria_live_text_recent-searches-one-suggestion" style="display: none;"><!--"One recent search is available. Use up and down keys to navigate."--></code><code id="i18n_aria_live_text_recent-searches-multiple-suggestions" style="display: none;"><!--"Multiple recent searches are available. Use up and down keys to navigate."--></code><code id="i18n_aria_live_text_recent-searches-cleared" style="display: none;"><!--"Recent searches have been cleared."--></code><div class="recent-searches"><ul class="recent-searches__list"id="job-search-bar-keywords-recent-searches-list"role="listbox"><header class="recent-searches__item--clear"id="job-search-bar-keywords-recent-searches-list-item--clear-btn"role="option"><div class="recent-searches__header"><h2 aria-hidden="true"class="recent-searches__title">Recent Searches</h2><button aria-label="Clear recent searches"class="recent-searches__clear-btn"data-tracking-control-name="public_jobs_jobs-search-bar-recent-searches-clear-button"tabindex="-1"type="button">Clear</button></div></header><li class="recent-searches__item"role="option"id="job-search-bar-keywords-recent-searches-list-item-0"><a class="recent-searches__item-link"data-tracking-control-name="public_jobs_jobs-search-bar-recent-searches"href="https://uk.linkedin.com/jobs/ikrut-jobs?trk=public_jobs_jobs-search-bar-recent-searches"tabindex="-1"data-tracking-will-navigate>Ikrut, United Kingdom</a></li></ul></div></section><code id="i18n_aria_live_text_no-suggestions" style="display: none;"><!--"No suggestions found"--></code><code id="i18n_aria_live_text_one-suggestion" style="display: none;"><!--"One Suggestion. Use up and down keys to navigate"--></code><code id="i18n_aria_live_text_multiple-suggestions" style="display: none;"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code><section class="dismissable-input typeahead-input location-typeahead-input"aria-owns="job-search-bar-location-typeahead-list"aria-haspopup="listbox"role="combobox"><input type="search"aria-autocomplete="list"aria-controls="job-search-bar-location-typeahead-list"aria-label="Location"name="location"maxLength="500"class="dismissable-input__input"value="United Kingdom"placeholder="Location"autocomplete="off"data-tracking-control-name="public_jobs_jobs-search-bar_dismissable-input"><button type="button"class="dismissable-input__button" data-tracking-control-name="public_jobs_jobs-search-bar_dismissable-input-clear"><label class="screen-reader-text">Dismiss</label><icon class="dismissable-input__button-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button><div class="typeahead-input__dropdown"><template class="typeahead-item-template"><li class="typeahead-input__dropdown-item"role="option"><span class="typeahead-input__dropdown-text"></span></li></template><ul class="typeahead-input__dropdown-list"id="job-search-bar-location-typeahead-list"role="listbox"></ul></div></section><input type="hidden" name="trk" value="public_jobs_jobs-search-bar_search-submit"/><button type="submit" class="base-search-bar__submit-btn" aria-label="Search" data-tracking-control-name="public_jobs_jobs-search-bar_base-search-bar-search-submit"><icon class="base-search-bar__search-icon onload"data-delayed-url="https://static-exp1.licdn.com/sc/h/a6wnw1b2dk8748w5uni4o96fa"></icon></button></form></section><section class="base-search-bar" data-searchbar-type="LEARNING"><form class="base-search-bar__form" role="search" action="/learning/search" data-tracking-control-name="public_jobs_learning-search-bar_base-search-bar-form"><section class="dismissable-input search-input"><input type="search"aria-label="Search skills, subjects, or software"name="keywords"maxLength="500"class="dismissable-input__input"value="Ikrut"placeholder="Search skills, subjects, or software"autocomplete="on"data-tracking-control-name="public_jobs_learning-search-bar_keywords_dismissable-input"><button type="button"class="dismissable-input__button" data-tracking-control-name="public_jobs_learning-search-bar_keywords_dismissable-input-clear"><label class="screen-reader-text">Dismiss</label><icon class="dismissable-input__button-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button></section><!--  this input class name can not be changed, this is what tracking.js on LGFE is expecting--><input type="hidden" class="nav__search-uoo" name="upsellOrderOrigin"/><input type="hidden" name="trk" value="public_jobs_learning-search-bar_search-submit"/><button type="submit" class="base-search-bar__submit-btn" aria-label="Search" data-tracking-control-name="public_jobs_learning-search-bar_base-search-bar-search-submit"><icon class="base-search-bar__search-icon onload"data-delayed-url="https://static-exp1.licdn.com/sc/h/a6wnw1b2dk8748w5uni4o96fa"></icon></button></form></section><div aria-live="polite"class="search-bar__live-text sr-only"role="status"></div></section><a class="nav__button-tertiary" href="https://www.linkedin.com/signup/cold-join?source=jobs_registration&amp;session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fikrut-jobs%3Ftrk%3Dexpired_jd_redirect&amp;trk=public_jobs_nav-header-join" data-tracking-control-name="public_jobs_nav-header-join" data-tracking-will-navigate="">Join now</a><a class="nav__button-secondary" href="https://www.linkedin.com/uas/login?emailAddress=&amp;fromSignIn=true&amp;session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fikrut-jobs%3Ftrk%3Dexpired_jd_redirect&amp;trk=public_jobs_nav-header-signin" data-tracking-control-name="public_jobs_nav-header-signin" data-tracking-will-navigate="">Sign in</a></nav><section class="control-bar"><form class="top-filters"><ul class="top-filters__list"><li class="top-filters__item"><div class="filter-dropdown filter-dropdown--single filter-dropdown--has-selected filter-dropdown--guest-house filter-button-dropdown"><button type="button"class="filter-dropdown__button filter-button filter-button--single filter-button--has-selected filter-button--guest-house"aria-expanded="false"data-tracking-control-name="public_jobs_-dropdown"aria-controls="-dropdown">Most relevant<icon class="filter-button__icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"/></button><div id="-dropdown" class="filter-dropdown__dropdown"><fieldset><legend class="sr-only">Sort by</legend><div class="filter-list "data-is-single-select="true"data-short-name="sortBy"><ul class="filter-list__list"><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="radio" name="sortBy" value="R" id="-0" checked><label class="filter-list__list-item-label" for="-0">Most relevant</label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="radio" name="sortBy" value="DD" id="-1" ><label class="filter-list__list-item-label" for="-1">Most recent</label></li></ul></div><div class="filter-button-dropdown__dropdown-actions"><button class="filter-button-dropdown__action filter-button-dropdown__action--apply"type="submit"data-tracking-control-name="sortBy-done-btn"data-tracking-will-navigate>Done</button></div></fieldset></div></div></li><li class="top-filters__item"><div class="filter-dropdown filter-dropdown--single filter-dropdown--has-selected filter-dropdown--guest-house filter-button-dropdown"><button type="button"class="filter-dropdown__button filter-button filter-button--single filter-button--has-selected filter-button--guest-house"aria-expanded="false"data-tracking-control-name="public_jobs_TIME_POSTED-dropdown"aria-controls="TIME_POSTED-dropdown">Any Time<icon class="filter-button__icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"/></button><div id="TIME_POSTED-dropdown" class="filter-dropdown__dropdown"><fieldset><legend class="sr-only">Date Posted</legend><div class="filter-list "data-is-single-select="true"data-short-name="f_TP"><ul class="filter-list__list"><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="radio" name="f_TP" value="1" id="TIME_POSTED-0" ><label class="filter-list__list-item-label" for="TIME_POSTED-0">Past 24 hours</label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="radio" name="f_TP" value="1,2" id="TIME_POSTED-1" ><label class="filter-list__list-item-label" for="TIME_POSTED-1">Past Week</label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="radio" name="f_TP" value="1,2,3,4" id="TIME_POSTED-2" ><label class="filter-list__list-item-label" for="TIME_POSTED-2">Past Month <span class="filter-list__label-count">(6)</span></label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="radio" name="f_TP" value="" id="TIME_POSTED-3" checked><label class="filter-list__list-item-label" for="TIME_POSTED-3">Any Time <span class="filter-list__label-count">(6)</span></label></li></ul></div><div class="filter-button-dropdown__dropdown-actions"><button class="filter-button-dropdown__action filter-button-dropdown__action--apply"type="submit"data-tracking-control-name="f_TP-done-btn"data-tracking-will-navigate>Done</button></div></fieldset></div></div></li><li class="top-filters__item"><div class="filter-dropdown filter-dropdown--single filter-dropdown--none-selected filter-dropdown--guest-house filter-button-dropdown"><button type="button"class="filter-dropdown__button filter-button filter-button--single filter-button--none-selected filter-button--guest-house"aria-expanded="false"data-tracking-control-name="public_jobs_COMPANY-dropdown"aria-controls="COMPANY-dropdown">Company<icon class="filter-button__icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"/></button><div id="COMPANY-dropdown" class="filter-dropdown__dropdown"><fieldset><legend class="sr-only">Company</legend><div class="filter-list "data-is-single-select=""data-short-name="f_C"><code id="i18n_live_region_no-suggestions" style="display: none;"><!--"No suggestions found"--></code><code id="i18n_live_region_one-suggestion" style="display: none;"><!--"One Suggestion. Use up and down keys to navigate"--></code><code id="i18n_live_region_multiple-suggestions" style="display: none;"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code><div id="filter-button-facet-typeahead-f_C" class="typeahead filter-button-dropdown__typeahead"><div class="sr-only" role="status" id='live-region' aria-live="polite"></div><input id="filter-button-facet-typeahead-f_C-input"name="value"class="typeahead__input"type="text"placeholder="Add a filter"value=""role="combobox"aria-label="Add a filter for Company"aria-autocomplete="list"aria-owns="filter-button-facet-typeahead-f_C-suggestions-list"aria-expanded="false"aria-activedescendant=""><button type="button"class="typeahead__button"><span class='sr-only'>Dismiss</span><icon data-delayed-url="https://static-exp1.licdn.com/sc/h/c62wbyjzgy67o1dm9umuzlx8z"/></button><div class="typeahead-dropdown"><ul id="filter-button-facet-typeahead-f_C-suggestions-list" role="listbox" class="typeahead-dropdown__list"></ul></div></div><ul class="filter-list__list"><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_C" value="1014297" id="COMPANY-0" ><label class="filter-list__list-item-label" for="COMPANY-0">iKrut <span class="filter-list__label-count">(6)</span></label></li></ul></div><div class="filter-button-dropdown__dropdown-actions"><button class="filter-button-dropdown__action filter-button-dropdown__action--apply"type="submit"data-tracking-control-name="f_C-done-btn"data-tracking-will-navigate>Done</button></div></fieldset></div></div></li><li class="top-filters__item"><div class="filter-dropdown filter-dropdown--single filter-dropdown--none-selected filter-dropdown--guest-house filter-button-dropdown"><button type="button"class="filter-dropdown__button filter-button filter-button--single filter-button--none-selected filter-button--guest-house"aria-expanded="false"data-tracking-control-name="public_jobs_POPULATED_PLACE-dropdown"aria-controls="POPULATED_PLACE-dropdown">Location<icon class="filter-button__icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"/></button><div id="POPULATED_PLACE-dropdown" class="filter-dropdown__dropdown"><fieldset><legend class="sr-only">Location</legend><div class="filter-list "data-is-single-select=""data-short-name="f_PP"><code id="i18n_live_region_no-suggestions" style="display: none;"><!--"No suggestions found"--></code><code id="i18n_live_region_one-suggestion" style="display: none;"><!--"One Suggestion. Use up and down keys to navigate"--></code><code id="i18n_live_region_multiple-suggestions" style="display: none;"><!--"Multiple Suggestions. Use up and down keys to navigate"--></code><div id="filter-button-facet-typeahead-f_PP" class="typeahead filter-button-dropdown__typeahead"><div class="sr-only" role="status" id='live-region' aria-live="polite"></div><input id="filter-button-facet-typeahead-f_PP-input"name="value"class="typeahead__input"type="text"placeholder="Add a filter"value=""role="combobox"aria-label="Add a filter for Location"aria-autocomplete="list"aria-owns="filter-button-facet-typeahead-f_PP-suggestions-list"aria-expanded="false"aria-activedescendant=""><button type="button"class="typeahead__button"><span class='sr-only'>Dismiss</span><icon data-delayed-url="https://static-exp1.licdn.com/sc/h/c62wbyjzgy67o1dm9umuzlx8z"/></button><div class="typeahead-dropdown"><ul id="filter-button-facet-typeahead-f_PP-suggestions-list" role="listbox" class="typeahead-dropdown__list"></ul></div></div><ul class="filter-list__list"><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_PP" value="104116710" id="POPULATED_PLACE-0" ><label class="filter-list__list-item-label" for="POPULATED_PLACE-0">Manchester <span class="filter-list__label-count">(3)</span></label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_PP" value="100495523" id="POPULATED_PLACE-1" ><label class="filter-list__list-item-label" for="POPULATED_PLACE-1">London <span class="filter-list__label-count">(2)</span></label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_PP" value="103615590" id="POPULATED_PLACE-2" ><label class="filter-list__list-item-label" for="POPULATED_PLACE-2">Bristol <span class="filter-list__label-count">(1)</span></label></li></ul></div><div class="filter-button-dropdown__dropdown-actions"><button class="filter-button-dropdown__action filter-button-dropdown__action--apply"type="submit"data-tracking-control-name="f_PP-done-btn"data-tracking-will-navigate>Done</button></div></fieldset></div></div></li><li class="top-filters__item"><div class="filter-dropdown filter-dropdown--single filter-dropdown--none-selected filter-dropdown--guest-house filter-button-dropdown"><button type="button"class="filter-dropdown__button filter-button filter-button--single filter-button--none-selected filter-button--guest-house"aria-expanded="false"data-tracking-control-name="public_jobs_JOB_TYPE-dropdown"aria-controls="JOB_TYPE-dropdown">Job Type<icon class="filter-button__icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"/></button><div id="JOB_TYPE-dropdown" class="filter-dropdown__dropdown"><fieldset><legend class="sr-only">Job Type</legend><div class="filter-list "data-is-single-select=""data-short-name="f_JT"><ul class="filter-list__list"><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_JT" value="F" id="JOB_TYPE-0" ><label class="filter-list__list-item-label" for="JOB_TYPE-0">Full-time <span class="filter-list__label-count">(5)</span></label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_JT" value="C" id="JOB_TYPE-1" ><label class="filter-list__list-item-label" for="JOB_TYPE-1">Contract <span class="filter-list__label-count">(1)</span></label></li></ul></div><div class="filter-button-dropdown__dropdown-actions"><button class="filter-button-dropdown__action filter-button-dropdown__action--apply"type="submit"data-tracking-control-name="f_JT-done-btn"data-tracking-will-navigate>Done</button></div></fieldset></div></div></li><li class="top-filters__item"><div class="filter-dropdown filter-dropdown--single filter-dropdown--none-selected filter-dropdown--guest-house filter-button-dropdown"><button type="button"class="filter-dropdown__button filter-button filter-button--single filter-button--none-selected filter-button--guest-house"aria-expanded="false"data-tracking-control-name="public_jobs_EXPERIENCE-dropdown"aria-controls="EXPERIENCE-dropdown">Experience Level<icon class="filter-button__icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/7asbl4deqijhoy3z2ivveispv"/></button><div id="EXPERIENCE-dropdown" class="filter-dropdown__dropdown"><fieldset><legend class="sr-only">Experience Level</legend><div class="filter-list "data-is-single-select=""data-short-name="f_E"><ul class="filter-list__list"><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_E" value="2" id="EXPERIENCE-0" ><label class="filter-list__list-item-label" for="EXPERIENCE-0">Entry level <span class="filter-list__label-count">(6)</span></label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_E" value="1" id="EXPERIENCE-1" ><label class="filter-list__list-item-label" for="EXPERIENCE-1">Internship</label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_E" value="3" id="EXPERIENCE-2" ><label class="filter-list__list-item-label" for="EXPERIENCE-2">Associate</label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_E" value="4" id="EXPERIENCE-3" ><label class="filter-list__list-item-label" for="EXPERIENCE-3">Mid-Senior level</label></li><li class="filter-list__list-item filter-button-dropdown__list-item"><input type="checkbox" name="f_E" value="5" id="EXPERIENCE-4" ><label class="filter-list__list-item-label" for="EXPERIENCE-4">Director</label></li></ul></div><div class="filter-button-dropdown__dropdown-actions"><button class="filter-button-dropdown__action filter-button-dropdown__action--apply"type="submit"data-tracking-control-name="f_E-done-btn"data-tracking-will-navigate>Done</button></div></fieldset></div></div></li></ul></form></section></header><main id="main-content" class="results results--two-pane" role="main"><div class="results__container results__container--two-pane"><section class="results__list"><p class="inline-notification expired-job-notification" role="alert" type="yield" ><icon  class="inline-notification__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/6vvkivibaihsgoaxu4yk1k5d0"></icon><span class="inline-notification__text">This job is no longer available, but here are similar jobs you might like.</span></p> <div class="create-alert-modal__outlet-container"><button id="create-alert-modal-outlet"data-modal="create-alert-modal-outlet"class="create-alert-modal__outlet"data-impression-id="public_jobs_create-alert-modal-outlet"data-tracking-control-name="public_jobs_create-alert-modal-outlet">Get notified about new jobs</button></div><div class="results-context-header"><h1 class="results-context-header__context"><span class="results-context-header__job-count">6</span><span class="results-context-header__query-search">Results for "Ikrut in United Kingdom"</span></h1></div><ul class="jobs-search__results-list"><li class="result-card job-result-card result-card--with-hover-state" data-id="1877163924" data-entity-urn="urn:li:jobPosting:1877163924" data-search-id="843c33b1-8627-44d9-b371-3b7f81f45fe8" data-tracking-id="zB3/F7e9ShCmGabdxVyp6A==" data-column="1" data-row="1"><a class="result-card__full-card-link"href="https://uk.linkedin.com/jobs/view/product-manager-at-ikrut-1877163924?refId=843c33b1-8627-44d9-b371-3b7f81f45fe8&amp;position=1&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click"data-tracking-control-name="public_jobs_job-result-card_result-card_full-click"data-tracking-will-navigate=""><span class="screen-reader-text">Product Manager</span></a><img class="artdeco-entity-image job-result-card artdeco-entity-image--company job-result-card--company artdeco-entity-image--square-4 job-result-card--square-4 result-card__image lazy-load"data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGnWrO8coM-2A/company-logo_100_100/0?e=1599696000&amp;v=beta&amp;t=FcAb3SOtfxUU-_uYp3zhNldvHfNnDPtQEdhJIpOAdkU"data-ghost-classes="artdeco-entity-image--ghost job-result-card--ghost artdeco-entity-image--ghost-company job-result-card--ghost-company"data-ghost-url="https://static-exp1.licdn.com/sc/h/ck48xrmh3ctwna0w2y1hos0ln"alt="iKrut"aria-hidden="true"><div class="result-card__contents job-result-card__contents"><h3 class="result-card__title job-result-card__title">Product Manager</h3><h4 class="result-card__subtitle job-result-card__subtitle"><a class="result-card__subtitle-link job-result-card__subtitle-link"href="https://uk.linkedin.com/company/zodo?trk=public_jobs_job-result-card_result-card_subtitle-click"data-tracking-control-name="public_jobs_job-result-card_result-card_subtitle-click"data-tracking-will-navigate="">iKrut</a></h4><div class="result-card__meta job-result-card__meta"><span class="job-result-card__location">London, England, United Kingdom</span><time class="job-result-card__listdate" datetime="2020-05-24">2 weeks ago</time></div></div><div class="job-result-card__right-corner"></div></li><li class="result-card job-result-card result-card--with-hover-state" data-id="1888453250" data-entity-urn="urn:li:jobPosting:1888453250" data-search-id="843c33b1-8627-44d9-b371-3b7f81f45fe8" data-tracking-id="nhq1HXrAQs2CsvdpGk0fJw==" data-column="1" data-row="2"><a class="result-card__full-card-link"href="https://uk.linkedin.com/jobs/view/ux-ui-designer-at-ikrut-1888453250?refId=843c33b1-8627-44d9-b371-3b7f81f45fe8&amp;position=2&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click"data-tracking-control-name="public_jobs_job-result-card_result-card_full-click"data-tracking-will-navigate=""><span class="screen-reader-text">UX/UI Designer</span></a><img class="artdeco-entity-image job-result-card artdeco-entity-image--company job-result-card--company artdeco-entity-image--square-4 job-result-card--square-4 result-card__image lazy-load"data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGnWrO8coM-2A/company-logo_100_100/0?e=1599696000&amp;v=beta&amp;t=FcAb3SOtfxUU-_uYp3zhNldvHfNnDPtQEdhJIpOAdkU"data-ghost-classes="artdeco-entity-image--ghost job-result-card--ghost artdeco-entity-image--ghost-company job-result-card--ghost-company"data-ghost-url="https://static-exp1.licdn.com/sc/h/ck48xrmh3ctwna0w2y1hos0ln"alt="iKrut"aria-hidden="true"><div class="result-card__contents job-result-card__contents"><h3 class="result-card__title job-result-card__title">UX/UI Designer</h3><h4 class="result-card__subtitle job-result-card__subtitle"><a class="result-card__subtitle-link job-result-card__subtitle-link"href="https://uk.linkedin.com/company/zodo?trk=public_jobs_job-result-card_result-card_subtitle-click"data-tracking-control-name="public_jobs_job-result-card_result-card_subtitle-click"data-tracking-will-navigate="">iKrut</a></h4><div class="result-card__meta job-result-card__meta"><span class="job-result-card__location">Manchester, England, United Kingdom</span><time class="job-result-card__listdate" datetime="2020-05-07">4 weeks ago</time></div></div><div class="job-result-card__right-corner"></div></li><li class="result-card job-result-card result-card--with-hover-state" data-id="1883909452" data-entity-urn="urn:li:jobPosting:1883909452" data-search-id="843c33b1-8627-44d9-b371-3b7f81f45fe8" data-tracking-id="splOb8S/QO6FY8k8LCIh3A==" data-column="1" data-row="3"><a class="result-card__full-card-link"href="https://uk.linkedin.com/jobs/view/ux-ui-designer-at-ikrut-1883909452?refId=843c33b1-8627-44d9-b371-3b7f81f45fe8&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click"data-tracking-control-name="public_jobs_job-result-card_result-card_full-click"data-tracking-will-navigate=""><span class="screen-reader-text">UX/UI Designer</span></a><img class="artdeco-entity-image job-result-card artdeco-entity-image--company job-result-card--company artdeco-entity-image--square-4 job-result-card--square-4 result-card__image lazy-load"data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGnWrO8coM-2A/company-logo_100_100/0?e=1599696000&amp;v=beta&amp;t=FcAb3SOtfxUU-_uYp3zhNldvHfNnDPtQEdhJIpOAdkU"data-ghost-classes="artdeco-entity-image--ghost job-result-card--ghost artdeco-entity-image--ghost-company job-result-card--ghost-company"data-ghost-url="https://static-exp1.licdn.com/sc/h/ck48xrmh3ctwna0w2y1hos0ln"alt="iKrut"aria-hidden="true"><div class="result-card__contents job-result-card__contents"><h3 class="result-card__title job-result-card__title">UX/UI Designer</h3><h4 class="result-card__subtitle job-result-card__subtitle"><a class="result-card__subtitle-link job-result-card__subtitle-link"href="https://uk.linkedin.com/company/zodo?trk=public_jobs_job-result-card_result-card_subtitle-click"data-tracking-control-name="public_jobs_job-result-card_result-card_subtitle-click"data-tracking-will-navigate="">iKrut</a></h4><div class="result-card__meta job-result-card__meta"><span class="job-result-card__location">London, England, United Kingdom</span><time class="job-result-card__listdate" datetime="2020-05-22">2 weeks ago</time></div></div><div class="job-result-card__right-corner"></div></li><li class="result-card job-result-card result-card--with-hover-state" data-id="1878489688" data-entity-urn="urn:li:jobPosting:1878489688" data-search-id="843c33b1-8627-44d9-b371-3b7f81f45fe8" data-tracking-id="ERTjFpURS6mcESuRvkkvBg==" data-column="1" data-row="4"><a class="result-card__full-card-link"href="https://uk.linkedin.com/jobs/view/ux-ui-designer-at-ikrut-1878489688?refId=843c33b1-8627-44d9-b371-3b7f81f45fe8&amp;position=4&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click"data-tracking-control-name="public_jobs_job-result-card_result-card_full-click"data-tracking-will-navigate=""><span class="screen-reader-text">UX/UI Designer</span></a><img class="artdeco-entity-image job-result-card artdeco-entity-image--company job-result-card--company artdeco-entity-image--square-4 job-result-card--square-4 result-card__image lazy-load"data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGnWrO8coM-2A/company-logo_100_100/0?e=1599696000&amp;v=beta&amp;t=FcAb3SOtfxUU-_uYp3zhNldvHfNnDPtQEdhJIpOAdkU"data-ghost-classes="artdeco-entity-image--ghost job-result-card--ghost artdeco-entity-image--ghost-company job-result-card--ghost-company"data-ghost-url="https://static-exp1.licdn.com/sc/h/ck48xrmh3ctwna0w2y1hos0ln"alt="iKrut"aria-hidden="true"><div class="result-card__contents job-result-card__contents"><h3 class="result-card__title job-result-card__title">UX/UI Designer</h3><h4 class="result-card__subtitle job-result-card__subtitle"><a class="result-card__subtitle-link job-result-card__subtitle-link"href="https://uk.linkedin.com/company/zodo?trk=public_jobs_job-result-card_result-card_subtitle-click"data-tracking-control-name="public_jobs_job-result-card_result-card_subtitle-click"data-tracking-will-navigate="">iKrut</a></h4><div class="result-card__meta job-result-card__meta"><span class="job-result-card__location">Manchester, England, United Kingdom</span><time class="job-result-card__listdate" datetime="2020-05-25">2 weeks ago</time></div></div><div class="job-result-card__right-corner"></div></li><li class="result-card job-result-card result-card--with-hover-state" data-id="1883937335" data-entity-urn="urn:li:jobPosting:1883937335" data-search-id="843c33b1-8627-44d9-b371-3b7f81f45fe8" data-tracking-id="qAZwHH2QS1uBIBqIGE+peA==" data-column="1" data-row="5"><a class="result-card__full-card-link"href="https://uk.linkedin.com/jobs/view/ux-ui-designer-at-ikrut-1883937335?refId=843c33b1-8627-44d9-b371-3b7f81f45fe8&amp;position=5&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click"data-tracking-control-name="public_jobs_job-result-card_result-card_full-click"data-tracking-will-navigate=""><span class="screen-reader-text">UX/UI Designer</span></a><img class="artdeco-entity-image job-result-card artdeco-entity-image--company job-result-card--company artdeco-entity-image--square-4 job-result-card--square-4 result-card__image lazy-load"data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGnWrO8coM-2A/company-logo_100_100/0?e=1599696000&amp;v=beta&amp;t=FcAb3SOtfxUU-_uYp3zhNldvHfNnDPtQEdhJIpOAdkU"data-ghost-classes="artdeco-entity-image--ghost job-result-card--ghost artdeco-entity-image--ghost-company job-result-card--ghost-company"data-ghost-url="https://static-exp1.licdn.com/sc/h/ck48xrmh3ctwna0w2y1hos0ln"alt="iKrut"aria-hidden="true"><div class="result-card__contents job-result-card__contents"><h3 class="result-card__title job-result-card__title">UX/UI Designer</h3><h4 class="result-card__subtitle job-result-card__subtitle"><a class="result-card__subtitle-link job-result-card__subtitle-link"href="https://uk.linkedin.com/company/zodo?trk=public_jobs_job-result-card_result-card_subtitle-click"data-tracking-control-name="public_jobs_job-result-card_result-card_subtitle-click"data-tracking-will-navigate="">iKrut</a></h4><div class="result-card__meta job-result-card__meta"><span class="job-result-card__location">Bristol, England, United Kingdom</span><time class="job-result-card__listdate" datetime="2020-05-22">2 weeks ago</time></div></div><div class="job-result-card__right-corner"></div></li><li class="result-card job-result-card result-card--with-hover-state" data-id="1874170755" data-entity-urn="urn:li:jobPosting:1874170755" data-search-id="843c33b1-8627-44d9-b371-3b7f81f45fe8" data-tracking-id="cxbtnkDMQvSs344whRQKgQ==" data-column="1" data-row="6"><a class="result-card__full-card-link"href="https://uk.linkedin.com/jobs/view/ux-ui-designer-at-ikrut-1874170755?refId=843c33b1-8627-44d9-b371-3b7f81f45fe8&amp;position=6&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click"data-tracking-control-name="public_jobs_job-result-card_result-card_full-click"data-tracking-will-navigate=""><span class="screen-reader-text">UX/UI Designer</span></a><img class="artdeco-entity-image job-result-card artdeco-entity-image--company job-result-card--company artdeco-entity-image--square-4 job-result-card--square-4 result-card__image lazy-load"data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGnWrO8coM-2A/company-logo_100_100/0?e=1599696000&amp;v=beta&amp;t=FcAb3SOtfxUU-_uYp3zhNldvHfNnDPtQEdhJIpOAdkU"data-ghost-classes="artdeco-entity-image--ghost job-result-card--ghost artdeco-entity-image--ghost-company job-result-card--ghost-company"data-ghost-url="https://static-exp1.licdn.com/sc/h/ck48xrmh3ctwna0w2y1hos0ln"alt="iKrut"aria-hidden="true"><div class="result-card__contents job-result-card__contents"><h3 class="result-card__title job-result-card__title">UX/UI Designer</h3><h4 class="result-card__subtitle job-result-card__subtitle"><a class="result-card__subtitle-link job-result-card__subtitle-link"href="https://uk.linkedin.com/company/zodo?trk=public_jobs_job-result-card_result-card_subtitle-click"data-tracking-control-name="public_jobs_job-result-card_result-card_subtitle-click"data-tracking-will-navigate="">iKrut</a></h4><div class="result-card__meta job-result-card__meta"><span class="job-result-card__location">Manchester, England, United Kingdom</span><time class="job-result-card__listdate" datetime="2020-05-22">2 weeks ago</time></div></div><div class="job-result-card__right-corner"></div></li></ul><p class="inline-notification see-more-jobs__viewed-all hidden" role="alert" type="success" ><icon  class="inline-notification__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/9oc5lgfcwxycgod8yjbt6dcgn"></icon><span class="inline-notification__text">You&#39;ve viewed all jobs for this search</span></p><section id="json-refs"><code id="dust-var-currentJobId" style="display: none;"><!--"1877163924"--></code><code id="dust-var-currentSearchId" style="display: none;"><!--"843c33b1-8627-44d9-b371-3b7f81f45fe8"--></code><code id="dust-var-totalResults" style="display: none;"><!--"6"--></code><code id="dust-var-resultsPerPage" style="display: none;"><!--"25"--></code><code id="dust-var-isInfiniteScrollerEnabled" style="display: none;"><!--"true"--></code><code id="dust-var-jserpInfiniteScrollerLimitLoad" style="display: none;"><!--"control"--></code></section></section></div><section class="results__detail-view"><div class="details-pane__loader details-pane__loader--hide"><div class="large-loader"><img class="large-loader__icon lazy-load"alt="large loading spinner"data-delayed-url="https://static-exp1.licdn.com/sc/h/8u73kvqtfd00l1wdhykn4p0fp"aria-hidden=true></div></div><div class="details-pane__content"></div></section></main><code id="deferredScripts" style="display: none;"><!--"https://static-exp1.licdn.com/sc/h/7mqf15vjjk0ug3y8uba85d4h6,2x5kqucj94q60u4h0y0lccx0u,50c94owe2hqfdq6fsy1t7ogu"--></code><script type="text/javascript" src="https://static-exp1.licdn.com/sc/h/9amsffua7mf4yxa5hev82f5h2"></script><div id="toasts" class="toasts toasts--bottom" data-close-toast-string="Close" type="bottom"></div><code id="i18n_redirected_from_deleted_alert" style="display: none;"><!--"This job alert has been deactivated."--></code><div><div id="create-alert-modal" class="modal create-alert-modal guest-job-alert-modal"data-outlet="create-alert-modal-outlet"><div class="modal__overlay create-alert-modal__overlay guest-job-alert-modal__overlay"><section aria-modal="true"role="dialog"aria-labelledby="modal-section-Create job alert"tabindex="-1"class="modal__wrapper create-alert-modal__wrapper guest-job-alert-modal__wrapper"><header class="modal__header create-alert-modal__header guest-job-alert-modal__header"><h2 id="modal-section-Create job alert" class="modal__title create-alert-modal__title guest-job-alert-modal__title">Create job alert</h2><button class="modal__dismiss create-alert-modal__dismiss guest-job-alert-modal__dismiss modal__dismiss--with-icon create-alert-modal__dismiss--with-icon guest-job-alert-modal__dismiss--with-icon"aria-label="Dismiss"data-tracking-control-name="public_jobs_create-alert-modal_modal_dismiss"><icon class="modal__dismiss-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/44ge8ey0omn5oqp0k388nhe7g"></icon></button></header><main class="modal__main create-alert-modal__main guest-job-alert-modal__main"><form class="create-alert-form"><div class="create-alert-form__body"><p class="create-alert-form__header">Get email updates for new <strong class="break-word">Ikrut</strong> jobs in <strong>United Kingdom</strong></p><p class="create-alert-form__subline"></p><section class="dismissable-input create-alert-form-input"><input type="text"aria-label="Email address*"name="emailAddress"maxLength="500"class="dismissable-input__input"value=""placeholder="Email address*"autocomplete="off"data-tracking-control-name="public_jobs_create-alert-modal_email-address_dismissable-input"required><button type="button"class="dismissable-input__button" data-tracking-control-name="public_jobs_create-alert-modal_email-address_dismissable-input-clear"><label class="screen-reader-text">Dismiss</label><icon class="dismissable-input__button-icon"data-delayed-url="https://static-exp1.licdn.com/sc/h/cs55jggk4p3uqh9ozxdmpvjg7"></icon></button></section><input name="jserpUrl"type="hidden"value="https://uk.linkedin.com/jobs/ikrut-jobs?trk=expired_jd_redirect"/><code id="i18n_create_alert_invalid_email" style="display: none;"><!--"Please enter a valid email address"--></code><code id="i18n_generic_error_message" style="display: none;"><!--"Your job alert couldn't be created, please try again later."--></code><p class="create-alert-error-message create-alert-error-message--email"role="alert"><icon class="create-alert-error-message__icon lazy-load"></icon><span class="create-alert-error-message__container"><span class="create-alert-error-message__text"></span></span></p><p class="create-alert-form__agreement-links">By creating this job alert, you agree to the LinkedIn <a class="create-alert-form__agreement-item-link"href="https://www.linkedin.com/legal/user-agreement?trk=public_jobs_create-alert-modal_create-alert-form_user-agreement"target="_blank"rel="noopener"data-tracking-control-name="public_jobs_create-alert-modal_create-alert-form_user-agreement"data-tracking-will-navigate>User Agreement</a> and <a class="create-alert-form__agreement-item-link"href="https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_create-alert-modal_create-alert-form_privacy-policy"target="_blank"rel="noopener"data-tracking-control-name="public_jobs_create-alert-modal_create-alert-form_privacy-policy"data-tracking-will-navigate>Privacy Policy</a>. You can unsubscribe from these emails at any time.</p><code id="i18n_create_alert_invalid_email" style="display: none;"><!--"Please enter a valid email address"--></code><code id="i18n_generic_error_message" style="display: none;"><!--"Your job alert couldn't be created, please try again later."--></code><p class="create-alert-error-message create-alert-error-message--generic"role="alert"><icon class="create-alert-error-message__icon lazy-load"></icon><span class="create-alert-error-message__container"><span class="create-alert-error-message__text"></span><a class="create-alert-error-message__sign-in-link hidden"href="https://www.linkedin.com/uas/login?emailAddress=&amp;fromSignIn=true&amp;session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fikrut-jobs%3Ftrk%3Dexpired_jd_redirect&amp;trk=public_jobs_create-alert-modal_create-alert-form_over-limit-sign-in-link"data-tracking-control-name="public_jobs_create-alert-modal_create-alert-form_over-limit-sign-in-link"data-tracking-will-navigate>Sign in to create more</a></span></p></div><footer class="create-alert-form__footer"><button class="create-alert-form__footer-button"data-tracking-control-name="public_jobs_create-alert-modal_create-alert-form_submit"type="submit">Create job alert</button></footer></form><div class="alert-activation-status alert-activation-status--hidden"><div class="alert-activation-status__body"><icon class="alert-activation-status__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/1pjl08u5za2jj8q9xphhmbq1r"></icon><p class="alert-activation-status__headline">Your job alert is set</p><p class="alert-activation-status__subline">Click the link in the email we sent to <span id="guest-email" class="break-word"></span> to verify your email address and activate your job alert.</p></div><footer class="alert-activation-status__footer"><button class="alert-activation-status__footer-button" data-tracking-control-name="public_jobs_create-alert-modal_alert-activation-status-close">Done</button></footer></div><div class="welcome-back-sign-in-form__container welcome-back-sign-in-form__container--hidden"><h3 class="welcome-back-sign-in-form__header">Welcome back</h3><p class="welcome-back-sign-in-form__subline">Sign in to create your job alert for <span class="create-alert-sign-in-form__query-info">Ikrut</span> jobs in <span class="create-alert-sign-in-form__query-info">United Kingdom</span>.</p><code id="i18n_sign_in_form_show_text" style="display: none;"><!--"Show"--></code><code id="i18n_sign_in_form_show_label" style="display: none;"><!--"Show your LinkedIn password"--></code><code id="i18n_sign_in_form_hide_text" style="display: none;"><!--"Hide"--></code><code id="i18n_sign_in_form_hide_label" style="display: none;"><!--"Hide your LinkedIn password"--></code><code id="i18n_username_error_empty" style="display: none;"><!--"Please enter an email address or phone number"--></code><code id="i18n_username_error_too_long" style="display: none;"><!--"Email or phone number must be between 3 to 128 characters"--></code><code id="i18n_username_error_too_short" style="display: none;"><!--"Email or phone number must be between 3 to 128 characters"--></code><code id="i18n_password_error_empty" style="display: none;"><!--"Please enter a password"--></code><code id="i18n_password_error_too_short" style="display: none;"><!--"The password you provided must have at least 6 characters"--></code><code id="i18n_password_error_too_long" style="display: none;"><!--"The password you provided must have at most 400 characters"--></code><form class="sign-in-form create-alert-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate><input type="hidden" name="loginCsrfParam" value="adf3f7d4-cf8e-4a9f-81d5-063954943389"/><div class="sign-in-form__inputs create-alert-sign-in-form__inputs"><div class="input create-alert-sign-in-form"><input name="session_key" type="text"class="input__field create-alert-sign-in-form__field input__field--with-label create-alert-sign-in-form__field--with-label"aria-label="Type your email or phone number"required autocomplete="username"/><label class="input__label create-alert-sign-in-form__label" for="session_key">Email or phone</label><p class="input__message create-alert-sign-in-form__message hidden" for="session_key" role="alert"></p></div><div class="input create-alert-sign-in-form"><input name="session_password" type="password"class="input__field create-alert-sign-in-form__field input__field--with-label create-alert-sign-in-form__field--with-label"aria-label="Type your LinkedIn password"required autocomplete="current-password"/><label class="input__label create-alert-sign-in-form__label" for="session_password">Password</label><button class="sign-in-form__password-visibility-toggle create-alert-sign-in-form__password-visibility-toggle"  type="button" aria-label="Show your LinkedIn password" data-tracking-control-name="public_jobs_create-alert-modal_sign-in-password-visibility-toggle-btn">Show</button><p class="input__message create-alert-sign-in-form__message hidden" for="session_password" role="alert"></p></div><input type="hidden" name="session_redirect" value="https://uk.linkedin.com/jobs/ikrut-jobs?trk=expired_jd_redirect" /></div><div class="sign-in-form__footer create-alert-sign-in-form__footer"><a class="sign-in-form__forgot-password create-alert-sign-in-form__forgot-password"href="https://www.linkedin.com/uas/request-password-reset?trk=public_jobs_create-alert-modal_forgot_password"data-tracking-control-name="public_jobs_create-alert-modal_forgot_password"data-tracking-will-navigate>Forgot password?</a><input type="hidden" name="trk" value="public_jobs_create-alert-modal_sign-in-submit"/><button type="submit" class="sign-in-form__submit-btn create-alert-sign-in-form__submit-btn" data-tracking-control-name="public_jobs_create-alert-modal_sign-in-submit-btn" data-tracking-litms>Sign in</button></div></form></div></main></section></div></div></div><div class="cta-modal" data-impression-id="public_jobs_cta-modal" role="dialog" aria-labelledby="cta-modal-header" aria-describedby="cta-modal-subheader"><h2 id="cta-modal-header" class="cta-modal__header">You&#39;re signed out</h2><h3 id="cta-modal-subheader" class="cta-modal__subheader">Sign in for the full experience</h3><a class="cta-modal__primary-btn"href="https://www.linkedin.com/uas/login?emailAddress=&amp;fromSignIn=true&amp;session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fikrut-jobs%3Ftrk%3Dexpired_jd_redirect&amp;trk=public_jobs_conversion-modal-signin"data-tracking-control-name="conversion-modal-signin"data-tracking-will-navigate>Sign in</a><a class="cta-modal__secondary-btn"href="https://www.linkedin.com/signup/cold-join?source=jobs_registration&amp;session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fikrut-jobs%3Ftrk%3Dexpired_jd_redirect&amp;trk=public_jobs_conversion-modal-join"data-tracking-control-name="conversion-modal-join"data-tracking-will-navigate>Join now</a><button class="cta-modal__dismiss-btn"data-tracking-control-name="public_jobs_dismiss"aria-label="Dismiss"><icon class="cta-modal__dismiss-icon onload" data-delayed-url="https://static-exp1.licdn.com/sc/h/44ge8ey0omn5oqp0k388nhe7g"></icon></button></div><footer class="li-footer"><ul class="li-footer__list"><li class="li-footer__item"><span class="sr-only">LinkedIn</span><icon class="li-footer__copy-logo" data-delayed-url="https://static-exp1.licdn.com/sc/h/b11vnqql8f4abtysggvq9v836"></icon><span class="li-footer__copy-text">&copy; 2020</span></li><li class="li-footer__item"><a href="https://press.linkedin.com/about-linkedin?trk=public_jobs_footer-about" data-tracking-control-name="public_jobs_footer-about" data-tracking-will-navigate class="li-footer__item-link">About</a></li><li class="li-footer__item"><a href="https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement" data-tracking-control-name="public_jobs_footer-user-agreement" data-tracking-will-navigate class="li-footer__item-link">User Agreement</a></li><li class="li-footer__item"><a href="https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy" data-tracking-control-name="public_jobs_footer-privacy-policy" data-tracking-will-navigate class="li-footer__item-link">Privacy Policy</a></li><li class="li-footer__item"><a href="https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy" data-tracking-control-name="public_jobs_footer-cookie-policy" data-tracking-will-navigate class="li-footer__item-link">Cookie Policy</a></li><li class="li-footer__item"><a href="https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy" data-tracking-control-name="public_jobs_footer-copyright-policy" data-tracking-will-navigate class="li-footer__item-link">Copyright Policy</a></li><li class="li-footer__item"><a href="https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy" data-tracking-control-name="public_jobs_footer-brand-policy" data-tracking-will-navigate class="li-footer__item-link">Brand Policy</a></li><li class="li-footer__item"><a href="https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls" data-tracking-control-name="public_jobs_footer-guest-controls" data-tracking-will-navigate class="li-footer__item-link">Guest Controls</a></li><li class="li-footer__item"><a href="https://www.linkedin.com/help/linkedin/answer/34593?lang=en&amp;trk=public_jobs_footer-community-guide" data-tracking-control-name="public_jobs_footer-community-guide" data-tracking-will-navigate class="li-footer__item-link">Community Guidelines</a></li><li class="li-footer__item"><div class="collapsible-dropdown language-selector collapsible-dropdown--footer language-selector--footer collapsible-dropdown--up language-selector--up"><ul class="collapsible-dropdown__list language-selector__list hidden" role="menu"><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-in_ID" class="language-selector__link" data-locale="in_ID">Bahasa Indonesia</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-ms_MY" class="language-selector__link" data-locale="ms_MY">Bahasa Malaysia</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-cs_CZ" class="language-selector__link" data-locale="cs_CZ">Čeština</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-da_DK" class="language-selector__link" data-locale="da_DK">Dansk</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-de_DE" class="language-selector__link" data-locale="de_DE">Deutsch</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-en_US" class="language-selector__link language-selector__link--selected" data-locale="en_US"><strong>English</strong></button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-es_ES" class="language-selector__link" data-locale="es_ES">Español</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-zh_TW" class="language-selector__link" data-locale="zh_TW">繁體中文</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-fr_FR" class="language-selector__link" data-locale="fr_FR">Français</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-ko_KR" class="language-selector__link" data-locale="ko_KR">한국어</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-it_IT" class="language-selector__link" data-locale="it_IT">Italiano</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-zh_CN" class="language-selector__link" data-locale="zh_CN">简体中文</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-nl_NL" class="language-selector__link" data-locale="nl_NL">Nederlands</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-ja_JP" class="language-selector__link" data-locale="ja_JP">日本語</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-no_NO" class="language-selector__link" data-locale="no_NO">Norsk</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-pl_PL" class="language-selector__link" data-locale="pl_PL">Polski</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-pt_BR" class="language-selector__link" data-locale="pt_BR">Português</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-ro_RO" class="language-selector__link" data-locale="ro_RO">Română</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-ru_RU" class="language-selector__link" data-locale="ru_RU">Русский</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-sv_SE" class="language-selector__link" data-locale="sv_SE">Svenska</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-tl_PH" class="language-selector__link" data-locale="tl_PH">Tagalog</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-th_TH" class="language-selector__link" data-locale="th_TH">ภาษาไทย</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-tr_TR" class="language-selector__link" data-locale="tr_TR">Türkçe</button></li><li class="language-selector__item" role="menuitem"><button data-tracking-control-name="language-selector-ar_AE" class="language-selector__link" data-locale="ar_AE">العربية</button></li></ul><button class="language-selector__button"aria-expanded="false"data-tracking-control-name="footer-lang-dropdown_trigger"><span class="language-selector__label-text">Language</span><icon class="language-selector__label-chevron" data-delayed-url="https://static-exp1.licdn.com/sc/h/cyolgscd0imw2ldqppkrb84vo" /></button></div></li></ul></footer><section id="json-refs"><code id="requestSubdomain" style="display: none;"><!--"uk"--></code><code id="dust-var-pageKey" style="display: none;"><!--"d_jobs_guest_search"--></code><code id="dust-var-savedSearchList" style="display: none;"><!--false--></code><code id="dust-var-savedSearchUrl" style="display: none;"><!--false--></code><code id="dust-var-isRedirectedFromDeletedAlert" style="display: none;"><!--false--></code><code id="isSkipUnifyApplySubmitEnabled" style="display: none;"><!--false--></code></section></body></html>
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3569167275" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.themuse.com/jobs/gsk/workday-functional-analyst-recruitment-19fab9" 
+{'website_title': 'https://www.themuse.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212025731/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3569265042" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3569167275" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.themuse.com/jobs/gsk/workday-functional-analyst-recruitment-19fab9" 
+{'website_title': 'https://www.themuse.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212025731/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3569265042" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.totallyexec.com/job/3472814/director-of-marketing-operations/" 
+{'website_title': 'https://www.totallyexec.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.prospects.ac.uk/graduate-jobs/Software Engineer Industrial Placement-2682661" 
+{'website_title': 'https://www.prospects.ac.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.prospects.ac.uk/graduate-jobs/Graduate UXUI Content Designer-2682664" 
+{'website_title': 'https://www.prospects.ac.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://matalan.jobs/search/5611" 
+{'website_title': 'https://matalan.jobs', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3576667465" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101400695" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.ventureloop.com/ventureloop/job/1416668/infinera-corporation/program-manager-contract" 
+{'website_title': 'https://www.ventureloop.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://eu.experteer.com/position/extern/22165534" 
+{'website_title': 'http://eu.experteer.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/C9E203C9654402FEC0" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://neuvoo.co.uk/view/?jpos=38&jp=1&id=3635c2ff5bb6&lang=en&k=&newjob=1&splitab=1&action=emailAlert" 
+{'website_title': 'https://neuvoo.co.uk', 'description_selector': {'attribute': 'id', 'attribute_value': 'job-description'}, 'selector_found': True}
+
+url - r"https://www.vercida.com/uk/jobs/integrated-business-planning-excellence-lead" 
+{'website_title': 'https://www.vercida.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://starjobsearch.co.uk/jobs/infrastructure-engineer-umbrella-paye-knutsford-cheshire/154294653-2/" 
+{'website_title': 'https://starjobsearch.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobs.nhs.uk/xi/vacancy/916049908" 
+{'website_title': 'https://www.jobs.nhs.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.prospects.ac.uk/graduate-jobs/Programming Graduate Programme - Erskine-2682008" 
+{'website_title': 'https://www.prospects.ac.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.prospects.ac.uk/graduate-jobs/Programming Graduate Programme - Aldershot-2682004" 
+{'website_title': 'https://www.prospects.ac.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/CC8CF61D8C1F83A194" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://bskyb.taleo.net/careersection/bskyb_external/jobdetail.ftl?job=710897" 
+{'website_title': 'https://bskyb.taleo.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3587973287" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101649646" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.networxrecruitment.com/Jobs/Advert/1938195?cid=1815&s=True&t=RPA-Developer" 
+{'website_title': 'https://www.networxrecruitment.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3586553618" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/D1BFD5909DA8B50537" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://the-dots.com/jobs/129120" 
+{'website_title': 'https://the-dots.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://starjobsearch.co.uk/jobs/technical-specialist-cloud-technology-team-west-midlands/155715631-2/" 
+{'website_title': 'https://starjobsearch.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3587014488" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://findajob.dwp.gov.uk/details/4286938" 
+{'website_title': 'https://findajob.dwp.gov.uk', 'description_selector': {'attribute': 'class', 'attribute_value': 'job-details-body'}, 'selector_found': True}
+
+url - r"https://jobs.theguardian.com/job/7068133/" 
+{'website_title': 'https://jobs.theguardian.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://sainsburys.taleo.net/careersection/jobdetail.ftl?job=437996" 
+{'website_title': 'https://sainsburys.taleo.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.reed.co.uk/jobs/resource-planning-insight-manager/40438632" 
+{'website_title': 'https://www.reed.co.uk', 'description_selector': {'attribute': 'class', 'attribute_value': 'job-details-footer hidden-xs'}, 'selector_found': True}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/8F3FDD727BC43DEFB4" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/B3392BFAEF0663D742" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://jobbio.com/ie/job/977701/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212106791/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glosjobs.co.uk/project-management-jobs-in-gloucester/ux-project-manager-493252/" 
+{'website_title': 'https://www.glosjobs.co.uk', 'description_selector': {'attribute': 'id', 'attribute_value': 'job-details'}, 'selector_found': True}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117494" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596457503" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.thirdsector.co.uk/job/454786/" 
+{'website_title': 'https://jobs.thirdsector.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212106791/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117494" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596457503" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.thirdsector.co.uk/job/454786/" 
+{'website_title': 'https://jobs.thirdsector.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/FD2EE96349E957658E" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117490" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596454973" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117491" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596579740" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/7584D0B0B5455ADB13" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596588808" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596312088" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/6EE6659A9AD35BBBA0" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.scotjobsnet.co.uk/jobs/9644860" 
+{'website_title': 'https://www.scotjobsnet.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495484/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495627/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495908/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12496143/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12496164/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.cv-library.co.uk/job/212103642/" 
+{'website_title': 'https://www.cv-library.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3595745268" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3595828730" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.brokerhunter.com/job/2891412/" 
+{'website_title': 'https://www.brokerhunter.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495907/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596455530" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117476" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.amazon.jobs/en-gb/jobs/1169599/" 
+{'website_title': 'https://www.amazon.jobs', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.nijobfinder.co.uk/job/886574/" 
+{'website_title': 'https://www.nijobfinder.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596305640" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596274142" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212105771/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/ipswich-gbr/cloud-security-controls-sme-12-month-fixed-term-contract/3EE3A18F56234835BBCF1EE96254BB90/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/reigate-gbr/cloud-security-controls-sme-12-month-fixed-term-contract/321623128FAF4951A41FB006BD5458AB/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/reigate-gbr/cyber-security-controls-lead-12-month-fixed-term-contract/EFCEF3181AEA4652B422FB83CCC7B9BA/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/reigate-gbr/cloud-security-controls-sme-test-lead-12-month-fixed-term-contract/E00EA87569344CAD9DA883630507CB71/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/ipswich-gbr/cloud-security-controls-sme-test-lead-12-month-fixed-term-contract/7BAAA119C6684FC4BB2E3F2E05E383B8/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212105557/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117475" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/ipswich-gbr/cyber-security-controls-lead-12-month-fixed-term-contract/08C0DB10DA034932871B7FA10132DED0/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101883906" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.itjobboard.net/job/10247793" 
+{'website_title': 'https://www.itjobboard.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'div', 'attribute': 'class', 'attribute_value': 'alert alert-info text-center'}}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101883919" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597680972" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://starjobsearch.co.uk/jobs/qa-test-engineer-12month-fixed-term-contract-kettering-northamptonshire/157245862-2/" 
+{'website_title': 'https://starjobsearch.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597470097" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597329235" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/BAFCB5980EFADB5A31" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/EEEDB62016C16CA283" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597458876" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://eu.experteer.com/position/extern/22332461" 
+{'website_title': 'http://eu.experteer.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212108999/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597015710" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597015712" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597015709" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597015713" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597015711" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.retailcrossing.com/lcjsjobdetail.php?akey=6c2726516cbcf918b229a9af4c337b42" 
+{'website_title': 'https://www.retailcrossing.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597074852" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101868336" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.themuse.com/jobs/broadridge/program-manager" 
+{'website_title': 'https://www.themuse.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3596570346" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.efinancialcareers.fr/emploi-UK-Potters_Bar-QA_Analyst.id07936429" 
+{'website_title': 'https://www.efinancialcareers.fr', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597219480" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/F75A6CE857B4063048" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/5319F0551317D2F1C8" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&jobid=202006&frmSiteId=5050#jobDetails=202006_5012" 
+{'website_title': 'https://jobs.ubs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'id', 'attribute_value': 'appLbl'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/5E16D46F9676369BDC" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.nijobfinder.co.uk/job/886445/" 
+{'website_title': 'https://www.nijobfinder.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3598417174" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597803445" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101902859" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3598650610" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3598858231" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3598821844" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3598448425" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3597940961" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobbio.com/ie/job/1119461/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/london-gbr/technical-writer-analyst/2D85CA2050214F6DA512D3A2768FAB17/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.theguardian.com/job/7070955/" 
+{'website_title': 'https://jobs.theguardian.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212111922/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobmedic.co.uk/jdp/x-j3w3sl5yjb27txv379f" 
+{'website_title': 'https://www.jobmedic.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.technojobs.co.uk/job/2831844" 
+{'website_title': 'https://www.technojobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/0342A70BEFC6416259" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://jobbio.com/ie/job/1123150/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3600943713" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.securityclearedjobs.com/job/801911325/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.stepstone.nl/banen----499054-inline.html" 
+{'website_title': 'https://www.stepstone.nl', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.stepstone.nl/banen----499041-inline.html" 
+{'website_title': 'https://www.stepstone.nl', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.stepstone.nl/banen----499046-inline.html" 
+{'website_title': 'https://www.stepstone.nl', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.stepstone.nl/banen----499064-inline.html" 
+{'website_title': 'https://www.stepstone.nl', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.stepstone.nl/banen----499079-inline.html" 
+{'website_title': 'https://www.stepstone.nl', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.stepstone.nl/banen----499083-inline.html" 
+{'website_title': 'https://www.stepstone.nl', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3600943713" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.securityclearedjobs.com/job/801911325/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.jobcentreonline.com/JCOLFront/FreeSearchJobDetails.aspx?VRef=1460529&FreeSearch=" 
+{'website_title': 'https://www.jobcentreonline.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101952552" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3600842212" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.itjobboard.net/job/10250918" 
+{'website_title': 'https://www.itjobboard.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'div', 'attribute': 'class', 'attribute_value': 'alert alert-info text-center'}}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3600711345" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3600709452" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://careers.nab.com.au/mob/aw/en/job/755431/senior-hr-analyst-learning-consultant" 
+{'website_title': 'https://careers.nab.com.au', 'description_selector': {'attribute': 'id', 'attribute_value': 'job-details'}, 'selector_found': True}
+
+url - r"https://sainsburys.taleo.net/careersection/jobdetail.ftl?job=439019" 
+{'website_title': 'https://sainsburys.taleo.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/61250CFB990FC3D704" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3601197963" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.glassdoor.co.uk/job-listing/JV.htm?jl=3601116831" 
+{'website_title': 'https://www.glassdoor.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.securityclearedjobs.com/job/801911325/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.jobcentreonline.com/JCOLFront/FreeSearchJobDetails.aspx?VRef=1460529&FreeSearch=" 
+{'website_title': 'https://www.jobcentreonline.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101952552" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.itjobboard.net/job/10250918" 
+{'website_title': 'https://www.itjobboard.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'div', 'attribute': 'class', 'attribute_value': 'alert alert-info text-center'}}
+
+url - r"https://sainsburys.taleo.net/careersection/jobdetail.ftl?job=439019" 
+{'website_title': 'https://sainsburys.taleo.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/61250CFB990FC3D704" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.securityclearedjobs.com/job/801911325/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.jobcentreonline.com/JCOLFront/FreeSearchJobDetails.aspx?VRef=1460529&FreeSearch=" 
+{'website_title': 'https://www.jobcentreonline.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101952552" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.itjobboard.net/job/10250918" 
+{'website_title': 'https://www.itjobboard.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'div', 'attribute': 'class', 'attribute_value': 'alert alert-info text-center'}}
+
+url - r"https://sainsburys.taleo.net/careersection/jobdetail.ftl?job=439019" 
+{'website_title': 'https://sainsburys.taleo.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/61250CFB990FC3D704" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/16885B7EAA0AA83E27" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/DD1F464BE551790F8C" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/DA92B52AAE4CB6991B" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.cv-library.ie/job/212118056/" 
+{'website_title': 'https://www.cv-library.ie', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.efinancialcareers.com/jobs-UK-Birmingham-Desktop_Engineer_WVD_-_Windows_Virtual_Desktop.id07938011" 
+{'website_title': 'https://www.efinancialcareers.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.nijobfinder.co.uk/job/886701/" 
+{'website_title': 'https://www.nijobfinder.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/22EB6B970EA903695D" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101917187" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobbio.com/ie/job/1147139/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobbio.com/ie/job/1147126/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.securityclearedjobs.com/job/801911160/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"http://www.theitjob.com/search/jobs/101929712" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101930310" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101929564" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101929849" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101930342" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933529" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933081" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933184" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933392" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933801" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933665" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101933617" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theitjob.com/search/jobs/101934286" 
+{'website_title': 'http://www.theitjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobbio.com/ie/job/1120426/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobbio.com/ie/job/1120420/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/37690AEBE72BA362CE" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/6AD1040AD2915EE7BB" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/DDED5D420969581A13" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.securityclearedjobs.com/job/801911161/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.securityclearedjobs.com/job/801911148/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.retailcrossing.com/lcjsjobdetail.php?akey=0e7dd5d974d370251691362ed89f64d4" 
+{'website_title': 'https://www.retailcrossing.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.securityclearedjobs.com/job/801911280/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.securityclearedjobs.com/job/801911245/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://jobbio.com/ie/job/1123150/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/0342A70BEFC6416259" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.technojobs.co.uk/job/2831844" 
+{'website_title': 'https://www.technojobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobmedic.co.uk/jdp/x-j3w3sl5yjb27txv379f" 
+{'website_title': 'https://www.jobmedic.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212111922/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.theguardian.com/job/7070955/" 
+{'website_title': 'https://jobs.theguardian.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/london-gbr/technical-writer-analyst/2D85CA2050214F6DA512D3A2768FAB17/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobbio.com/ie/job/1119461/-/-/-" 
+{'website_title': 'https://jobbio.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.nijobfinder.co.uk/job/886445/" 
+{'website_title': 'https://www.nijobfinder.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.securityclearedjobs.com/job/801911325/" 
+{'website_title': 'https://www.securityclearedjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.nijobfinder.co.uk/job/886445/" 
+{'website_title': 'https://www.nijobfinder.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/5E16D46F9676369BDC" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&jobid=202006&frmSiteId=5050#jobDetails=202006_5012" 
+{'website_title': 'https://jobs.ubs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'id', 'attribute_value': 'appLbl'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/5319F0551317D2F1C8" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/F75A6CE857B4063048" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'class', 'attribute_value': 'jobdesc '}, 'selector_found': True}
+
+url - r"https://www.efinancialcareers.fr/emploi-UK-Potters_Bar-QA_Analyst.id07936429" 
+{'website_title': 'https://www.efinancialcareers.fr', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.themuse.com/jobs/broadridge/program-manager" 
+{'website_title': 'https://www.themuse.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101868336" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.retailcrossing.com/lcjsjobdetail.php?akey=6c2726516cbcf918b229a9af4c337b42" 
+{'website_title': 'https://www.retailcrossing.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212108999/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://eu.experteer.com/position/extern/22332461" 
+{'website_title': 'http://eu.experteer.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/EEEDB62016C16CA283" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/BAFCB5980EFADB5A31" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://starjobsearch.co.uk/jobs/qa-test-engineer-12month-fixed-term-contract-kettering-northamptonshire/157245862-2/" 
+{'website_title': 'https://starjobsearch.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101883919" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.itjobboard.net/job/10247793" 
+{'website_title': 'https://www.itjobboard.net', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'div', 'attribute': 'class', 'attribute_value': 'alert alert-info text-center'}}
+
+url - r"http://www.theengineeringjob.com/search/jobs/101883906" 
+{'website_title': 'http://www.theengineeringjob.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/ipswich-gbr/cyber-security-controls-lead-12-month-fixed-term-contract/08C0DB10DA034932871B7FA10132DED0/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117475" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212105557/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/ipswich-gbr/cloud-security-controls-sme-test-lead-12-month-fixed-term-contract/7BAAA119C6684FC4BB2E3F2E05E383B8/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/reigate-gbr/cloud-security-controls-sme-test-lead-12-month-fixed-term-contract/E00EA87569344CAD9DA883630507CB71/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/reigate-gbr/cyber-security-controls-lead-12-month-fixed-term-contract/EFCEF3181AEA4652B422FB83CCC7B9BA/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/reigate-gbr/cloud-security-controls-sme-12-month-fixed-term-contract/321623128FAF4951A41FB006BD5458AB/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dejobs.org/ipswich-gbr/cloud-security-controls-sme-12-month-fixed-term-contract/3EE3A18F56234835BBCF1EE96254BB90/job/" 
+{'website_title': 'https://dejobs.org', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212105771/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.nijobfinder.co.uk/job/886574/" 
+{'website_title': 'https://www.nijobfinder.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.amazon.jobs/en-gb/jobs/1169599/" 
+{'website_title': 'https://www.amazon.jobs', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117476" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495907/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.brokerhunter.com/job/2891412/" 
+{'website_title': 'https://www.brokerhunter.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.cv-library.co.uk/job/212103642/" 
+{'website_title': 'https://www.cv-library.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12496164/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'p', 'attribute': 'id', 'attribute_value': 'message'}}
+
+url - r"https://www.mendeley.com/careers/job/12496143/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495908/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495627/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.mendeley.com/careers/job/12495484/" 
+{'website_title': 'https://www.mendeley.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.scotjobsnet.co.uk/jobs/9644860" 
+{'website_title': 'https://www.scotjobsnet.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/6EE6659A9AD35BBBA0" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/7584D0B0B5455ADB13" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117491" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117490" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/FD2EE96349E957658E" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://jobs.thirdsector.co.uk/job/454786/" 
+{'website_title': 'https://jobs.thirdsector.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://jobs.gamesindustry.biz/-//-id117494" 
+{'website_title': 'https://jobs.gamesindustry.biz', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.britishjobs.co.uk/job/212106791/" 
+{'website_title': 'https://www.britishjobs.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/AD40B921896F7F2E58" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.retailcrossing.com/lcjsjobdetail.php?akey=c29bd9635c391166f0ca59b64c14d9af" 
+{'website_title': 'https://www.retailcrossing.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/88C38CC2A01CE64AB8" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/5299100EF21A42D00D" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"https://dlg.wd3.myworkdayjobs.com/en-US/DLGCAREERS/job/London---Bromley/Technical-Support-Analyst---Logistics_R-8636-1" 
+{'website_title': 'https://dlg.wd3.myworkdayjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'Blanks>","WDRES.RERUN.Blank":"(blank)","WDRES.CHARTS.TOOLTIP.FilterBy":"Specify', 'attribute': 'the', 'attribute_value': ','}}
+
+url - r"https://www.jobserve.com/gb/en/mob/job/65AFA99029F8D7C00F" 
+{'website_title': 'https://www.jobserve.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'span', 'attribute': 'class', 'attribute_value': 'expiredjobtext'}}
+
+url - r"http://jobs.euractiv.com/job/researcher-position-communication-technologies-division-smartech-department-204139" 
+{'website_title': 'http://jobs.euractiv.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://job-openings.monster.co.uk/v2/job/View?JobID=5280361f-0f59-41ab-b1da-77e449f1cf52" 
+{'website_title': 'https://job-openings.monster.co.uk', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False}
+
+url - r"https://dlg.wd3.myworkdayjobs.com/en-US/DLGCAREERS/job/London---Bromley/Technical-Change-Analyst---12-Month-Fixed-Term-Contract_R-8163" 
+{'website_title': 'https://dlg.wd3.myworkdayjobs.com', 'description_selector': {'attribute': 'attribute', 'attribute_value': 'attribute_value'}, 'selector_found': False, 'expired_selector': {'parent': 'Blanks>","WDRES.RERUN.Blank":"(blank)","WDRES.CHARTS.TOOLTIP.FilterBy":"Specify', 'attribute': 'the', 'attribute_value': ','}}
+

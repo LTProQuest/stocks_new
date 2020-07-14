@@ -1,7 +1,6 @@
 import os
 from docx import Document
 
-from docx import Document  
 doc = Document()
 import re
 
@@ -83,7 +82,7 @@ def docx_replace_multiple_strings(file_path, old_texts, output_directory):
                 
                 # p.style = style
     path, filename = os.path.split(file_path)
-    edited_cv_file_path = output_directory  + filename
+    edited_cv_file_path = output_directory + "/"  + filename
     doc.save(edited_cv_file_path)
     return edited_cv_file_path
 

@@ -4,13 +4,16 @@ process:
 get vacancy info, call produce candidate search URL app
 Send each candidate URL to scrape app
 """
+import sys
+
+path = r"C:\Users\luket\Desktop\test_space\depersonalisation"
+sys.path.insert(0, path)
 import redact_template
 import cw_scrape
 import win32com.client
 import browser_cookie3
 from bs4 import BeautifulSoup
 import os
-import sys
 import random
 import requests
 import datetime
@@ -19,28 +22,28 @@ import re
 
 #import doc_to_docx
 
-path = r"C:\Users\luket\Desktop\work\cv_library_workspace\libraries"
+path = r"C:\Users\luket\Desktop\test_space\libraries"
 sys.path.insert(0, path)
 
 from library_webscrape import classes, outlook, edit_docx, os_lib
-
 
 # Settings
 #depersonalise_cv = False
 logger = outlook.WebscrapeLogger()
 candidate_pages_per_vacancy = 1
 vacancy_search_limit = 100
-vacancy_start_from = 1  # default = 1
+vacancy_start_from = 62  # default = 1
 root_url = 'https://recruiter.cwjobs.co.uk'
 candidate_scrape_limit = 300  # per vacancy
 
 
 settings = {
     "download_cv": True,
-    "download_storage": "storage/cv_storage",
+    "download_storage": r"C:\Users\luket\Desktop\test_space\storage\cv_storage",
     "email_logging": False
 }
-edited_document_storage = "storage/edited_cv_storage"
+
+edited_document_storage = r"C:\Users\luket\Desktop\test_space\storage\edited_cv_storage"
 candidates_per_minute = 3
 candidate_post_url = "https://api.pro-quest.co.uk/api/candidates/PostJobCandidate"
 #candidate_post_url = "https://api.pro-quest.co.uk/api/candidates/PostContractor"
@@ -130,6 +133,7 @@ for i, vacancy in enumerate(vacancy_payloads):
                 print("scrape failed")
                 continue
             
+            print(payload)
             if eligible_to_work == False:
                 print("Not eligible to work, continuing")
                 continue
@@ -149,28 +153,34 @@ for i, vacancy in enumerate(vacancy_payloads):
             filename, file_extension = os.path.splitext(cv_file_path)
             payload["CVFile"] = webscraper.encode_cv(cv_file_path)
 
-            if file_extension == ".docx":
-                edited_cv_file_path = edit_docx.docx_replace_multiple_strings(
-                    cv_file_path, texts_to_hide, edited_document_storage)
-                payload["DepersonalisedCVFile"] = webscraper.encode_cv(
-                    edited_cv_file_path)
-                payload["CVFileExtension"] = "docx"
-    
-            elif file_extension == ".pdf":
-                edited_cv_file_path = redact_template.pdf_redact(
-                    cv_file_path, edited_document_storage, texts_to_hide)
-                time.sleep(2)
-                payload["DepersonalisedCVFile"] = webscraper.encode_cv(
-                    edited_cv_file_path)
-                payload["CVFileExtension"] = "pdf"
 
+            try:
+                if file_extension == ".docx":
+                    edited_cv_file_path = edit_docx.docx_replace_multiple_strings(
+                        cv_file_path, texts_to_hide, edited_document_storage)
+                    payload["DepersonalisedCVFile"] = webscraper.encode_cv(
+                        edited_cv_file_path)
+                    payload["CVFileExtension"] = "docx"
+        
+                elif file_extension == ".pdf":
+                    edited_cv_file_path = redact_template.pdf_redact(
+                        cv_file_path, edited_document_storage, texts_to_hide)
+                    time.sleep(2)
+                    payload["DepersonalisedCVFile"] = webscraper.encode_cv(
+                        edited_cv_file_path)
+                    payload["CVFileExtension"] = "pdf"
 
+                else:
+                    continue
+                    print("oh dear, new file extension found - ", file_extension)
+
+            except:
+                print("depersonalisation error, conrinuing")
+                continue
 
                 
 
-            else:
-                continue
-                print("oh dear, new file extension found - ", file_extension)    
+                  
             """
             elif file_extension == ".doc":
                 print("doc found")
@@ -182,7 +192,6 @@ for i, vacancy in enumerate(vacancy_payloads):
            
             """
             
-                
 
 
             if debug_on == True:
@@ -190,7 +199,8 @@ for i, vacancy in enumerate(vacancy_payloads):
 
            
             if post_candidate == True:
-                webscraper.api_post_payload(candidate_post_url, payload)
+                webscraper.api_post_payload(
+                    candidate_post_url, payload, put=False)
                 print("posting")
             else:
                 pass

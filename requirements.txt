@@ -22,7 +22,7 @@ pyaes==1.6.1
 pycodestyle==2.5.0
 pycryptodome==3.9.7
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-docx==0.8.10
 pywin32==227
 pywin32-ctypes==0.2.0

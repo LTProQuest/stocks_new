@@ -3,7 +3,7 @@ autopep8==1.5.1
 beautifulsoup4==4.8.2
 browser-cookie3==0.10.2
 bs4==0.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.3
 defusedxml==0.6.0
